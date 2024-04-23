@@ -43,4 +43,8 @@ Ensure that all security best practices are followed, particularly when projects
 ### Software Use
 Ensure compliance with the licenses of all software used in this course. It is the responsibility of the user to adhere to these licenses.
 
+## Note
+
+The final CMS project, which accounts for 50% of your final grade, is not included in this repository to ensure that all students put in their effort to develop their own projects. If you are interested in viewing my final project, please contact me at mingwang@rrc.ca with your professor's email from this course for further discussion.
+
 ---
