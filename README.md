@@ -1,35 +1,46 @@
-WEBD-2008: Web Development 2
-Course Description
-WEBD-2008, Web Development 2, is designed to build upon the skills acquired in the Web Development 1 course. This course introduces students to server-side technologies for creating dynamic and interactive websites. Key topics include:
+# WEBD-2008: Web Development 2
 
-Development of dynamic web pages generated from data stored in databases.
-Data validation for server-side processing of web form submissions.
-Utilization of session cookies to maintain stateful interactions with users.
-Technologies covered:
+## Course Description
 
-PHP: For server-side scripting.
-MySQL: As the relational database management system.
-JavaScript: For enhancing client-side interactivity.
-Repository Overview
-This repository contains course assignments and project templates for students enrolled in WEBD-2008. It serves as a resource and starting point for hands-on web development practice focusing on server-side technologies.
+WEBD-2008, Web Development 2, builds on the skills from Web Development 1. This course focuses on employing server-side technologies to create rich and dynamic websites. The curriculum includes:
 
-Installation
-To set up the environment necessary for these projects, you will need:
+- **Dynamic Web Pages**: Generated from data stored in databases.
+- **Data Validation**: Handling data submitted to the server via web forms and storing that data in a database.
+- **Session Cookies**: Using cookies to maintain data persistence for clients.
 
-Apache Web Server
-MySQL Database
-PHP Interpreter
-These components are often bundled in software stacks like XAMPP or MAMP, which simplify the installation process.
+**Technologies used**:
+- **PHP**: For server-side scripting.
+- **MySQL**: As the relational database management system.
+- **JavaScript**: For dynamic client-side updates.
 
-Usage
-Each directory in the repository corresponds to a specific assignment or project. Follow the README.md files within each directory for detailed instructions on how to deploy and run the applications.
+## Repository Overview
 
-Warnings and Disclaimers
-Academic Integrity
-This repository is intended for educational purposes only. Students are encouraged to use these materials to enhance learning but must adhere to the academic integrity policies of their respective institutions when submitting assignments.
+This repository contains the course assignments and projects for WEBD-2008. It provides essential templates and resources for practicing server-side web development.
 
-Data Handling
-While this course involves handling simulated data, students must ensure proper security practices are followed, especially when adapting these examples for real-world applications.
+## Installation
 
-Software Use
-All software used in this course should be utilized in accordance with their respective licenses. It is the responsibility of the user to comply with all such licenses.
+To participate in the assignments, you will need:
+1. **Apache Web Server**
+2. **MySQL Database**
+3. **PHP Interpreter**
+
+These are available in software stacks like XAMPP or MAMP, which are recommended for easy installation.
+
+## Usage
+
+Each folder in this repository corresponds to a specific assignment or project. Detailed instructions for deployment and operation are available in the README.md files within each folder.
+
+---
+
+## Warnings and Disclaimers
+
+### Academic Integrity
+This repository is intended for educational use. Students must adhere to the academic integrity guidelines of their institutions when using these materials for coursework.
+
+### Data Handling
+Ensure that all security best practices are followed, particularly when projects simulate handling real data.
+
+### Software Use
+Ensure compliance with the licenses of all software used in this course. It is the responsibility of the user to adhere to these licenses.
+
+---
